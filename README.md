@@ -11,8 +11,8 @@ a dynamic team.
 
 **Technical Skills:**
 
-Programming Languages: Java, C \n
-Frameworks and Libraries: Spring Boot, Spring Core, Spring Data JPA
-Databases: MySQL, SQL
-Developer Tools: Postman, Eclipse, VS Code, GitHub, AI Tools (ChatGPT, Gemini)
-Relevant Coursework: Machine Learning, DBMS, Object Oriented Programming
+Programming Languages: Java, C <br>
+Frameworks and Libraries: Spring Boot, Spring Core, Spring Data JPA <br>
+Databases: MySQL, SQL <br>
+Developer Tools: Postman, Eclipse, VS Code, GitHub, AI Tools (ChatGPT, Gemini) <br>
+Relevant Coursework: Machine Learning, DBMS, Object Oriented Programming <br>
