@@ -14,6 +14,6 @@ a dynamic team.
 1.Programming Languages: Java, C, Python <br>
 2.Frameworks and Libraries: Spring Boot, Spring Core, Spring Data JPA, React.js <br>
 3.Databases: MySQL, SQL <br>
-4.Developer Tools: Postman, Eclipse, VS Code, GitHub, Swagger AI Tools <br>
+4.Developer Tools: Postman, Eclipse, VS Code, GitHub, Swagger, AI Tools <br>
 5.Development Practices: Agile Development, CI/CD, RESTful API Design <br>
 6.Relevant Coursework: Machine Learning, DBMS, Object Oriented Programming <br>
