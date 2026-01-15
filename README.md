@@ -1,4 +1,4 @@
-<h2># 💫 About Me: </h2>
+<h2> 💫 About Me: </h2>
 <h3>Professional Summary:<br><br>Enthusiastic and detail-oriented Computer Science undergraduate with a strong foundation in Java, Spring Boot, React.js, and full-stack development. Skilled in software engineering, backend development, RESTful API design, and database management. Passionate about building scalable web applications, applying machine learning for predictive analytics, and solving complex problems using data structures and algorithms (DSA). Seeking an opportunity to contribute as a Software Developer or Backend Engineer in a dynamic team.</h3>
 
 <br><br><h2>Technical Skills:</h2>
